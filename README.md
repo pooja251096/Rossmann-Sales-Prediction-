@@ -7,18 +7,17 @@ Note that some stores in the dataset were temporarily closed for refurbishment.
 
 
 # Table of Contents
-1. Import Packages
+1. Import Packages                                                                                                                                                               
 2. Data Preparation
 
-2.1 Load Dataset
-2.2 Dealing With Missing Values
-2.2.1 Count missing values in each dataset
-2.3 Date Extraction
+2.1 Load Dataset                                                                                                                                                                 
+2.2 Dealing With Missing Values                                                                                                                                                 
+	2.2.1 Count missing values in each dataset	                                                                                                                        2.3 Date Extraction																				
 2.4 Joining Tables
-2.5 Drop Subsets Of Data 
-2.6 Feature Engineering
-2.6.1 Create new variable "day_diff_comp"
-2.6.2 Create new variable "day_diff_promo"
+2.5 Drop Subsets Of Data 																			
+2.6 Feature Engineering																				
+	2.6.1 Create new variable "day_diff_comp"
+	2.6.2 Create new variable "day_diff_promo"  																
 
 Exploratory Data Analysis
 3.1 Correlation Heatmap
